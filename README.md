@@ -80,6 +80,25 @@ Screenshots available in the `/screenshots` folder:
 
 ---
 
+## 📸 Architecture & Screenshots
+
+### VPC Setup
+![VPC](screenshots/screenshots/subnet.PNG)
+
+### EC2 Instance Running
+![EC2](screenshots/screenshots/ec2.PNG)
+
+### Nginx Web Server
+![Nginx](screenshots/screenshots/final.PNG)
+
+### CloudWatch Alarm Triggered
+![Alarm](screenshots/screenshots/cw.PNG)
+
+### SNS Email Notification
+![Email](screenshots/screenshots/notif.PNG)
+
+---
+
 ## 🚀 Author
 
 Kalimullah Khan  
